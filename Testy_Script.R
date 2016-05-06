@@ -5,3 +5,5 @@ y <- rep(9, 9)
 plot(x,y)
 
 ## changes 2
+
+### this is following http://www.r-bloggers.com/rstudio-and-github/
